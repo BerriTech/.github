@@ -33,7 +33,7 @@ A dark, psychological narrative game about guilt, suppressed memory, and confron
 | **Eyna** | ML / AI / Lead |
 | **Mahtab** | Backend & APIs |
 | **Anita** | Frontend & UI/UX |
-| **Rayeh** |   /   |
+| **Rayeh** |  Data mining / data analysis  |
 
 ## 📫 Find us
 
