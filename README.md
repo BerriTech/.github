@@ -30,15 +30,15 @@ A dark, psychological narrative game about guilt, suppressed memory, and confron
 
 | | Focus |
 |---|---|
-| **Eyna** | ML / AI / Game Logic |
+| **Eyna** | ML / AI / Lead |
 | **Mahtab** | Backend & APIs |
 | **Anita** | Frontend & UI/UX |
-| **Rayeh** | Full-Stack / Game Interface |
+| **Rayeh** |   /   |
 
 ## 📫 Find us
 
 - 🔗 LinkedIn: https://www.linkedin.com/company/beriitech-studio/about/?viewAsMember=true
-- 🌐 Website: [add link]
+- 🌐 Website: 
 - 📧 Email: beriitechno@gmail.com
 
 ---
